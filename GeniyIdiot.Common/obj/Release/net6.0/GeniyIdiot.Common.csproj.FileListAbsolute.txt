@@ -1,0 +1,12 @@
+D:\Project\OnlineCourse12Stream_Kurators\GeniyIdiot\GeniyIdiot.Common\bin\Release\net6.0\GeniyIdiot.Common.deps.json
+D:\Project\OnlineCourse12Stream_Kurators\GeniyIdiot\GeniyIdiot.Common\bin\Release\net6.0\GeniyIdiot.Common.dll
+D:\Project\OnlineCourse12Stream_Kurators\GeniyIdiot\GeniyIdiot.Common\bin\Release\net6.0\GeniyIdiot.Common.pdb
+D:\Project\OnlineCourse12Stream_Kurators\GeniyIdiot\GeniyIdiot.Common\obj\Release\net6.0\GeniyIdiot.Common.csproj.AssemblyReference.cache
+D:\Project\OnlineCourse12Stream_Kurators\GeniyIdiot\GeniyIdiot.Common\obj\Release\net6.0\GeniyIdiot.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\OnlineCourse12Stream_Kurators\GeniyIdiot\GeniyIdiot.Common\obj\Release\net6.0\GeniyIdiot.Common.AssemblyInfoInputs.cache
+D:\Project\OnlineCourse12Stream_Kurators\GeniyIdiot\GeniyIdiot.Common\obj\Release\net6.0\GeniyIdiot.Common.AssemblyInfo.cs
+D:\Project\OnlineCourse12Stream_Kurators\GeniyIdiot\GeniyIdiot.Common\obj\Release\net6.0\GeniyIdiot.Common.csproj.CoreCompileInputs.cache
+D:\Project\OnlineCourse12Stream_Kurators\GeniyIdiot\GeniyIdiot.Common\obj\Release\net6.0\GeniyIdiot.Common.dll
+D:\Project\OnlineCourse12Stream_Kurators\GeniyIdiot\GeniyIdiot.Common\obj\Release\net6.0\refint\GeniyIdiot.Common.dll
+D:\Project\OnlineCourse12Stream_Kurators\GeniyIdiot\GeniyIdiot.Common\obj\Release\net6.0\GeniyIdiot.Common.pdb
+D:\Project\OnlineCourse12Stream_Kurators\GeniyIdiot\GeniyIdiot.Common\obj\Release\net6.0\ref\GeniyIdiot.Common.dll
